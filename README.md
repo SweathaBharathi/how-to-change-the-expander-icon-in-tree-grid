@@ -57,5 +57,6 @@ Data="F1M1464.78,374.21C1466.31,374.21,1466.94,375.538,1466.17,376.861L1435.89,4
 </Window.Resources>
 ```
 ![Change the expander icon](ExpanderIcon.png)
+
 ## Requirements to run the demo
-Visual Studio 2015 and above versions
+Visual Studio 2015 and above versions.
